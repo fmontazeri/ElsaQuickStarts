@@ -1,0 +1,6 @@
+@ElsaQuickstarts.Server.ApiEndpoints_HostAddress = http://localhost:5187
+
+GET {{ElsaQuickstarts.Server.ApiEndpoints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

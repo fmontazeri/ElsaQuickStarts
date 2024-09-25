@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickstarts.WebApp.Hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickStarts.WebApp6.HelloWorld", "ElsaQuickStarts.WebApp6.HelloWorld\ElsaQuickStarts.WebApp6.HelloWorld.csproj", "{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickstarts.Server.ApiEndpoints", "ElsaQuickstarts.Server.ApiEndpoints\ElsaQuickstarts.Server.ApiEndpoints.csproj", "{D93A41E1-D3B7-474B-81AF-9F5E612C5BC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93A41E1-D3B7-474B-81AF-9F5E612C5BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93A41E1-D3B7-474B-81AF-9F5E612C5BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93A41E1-D3B7-474B-81AF-9F5E612C5BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93A41E1-D3B7-474B-81AF-9F5E612C5BC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
