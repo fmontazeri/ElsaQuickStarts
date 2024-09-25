@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickstarts.ConsoleApp.HelloWorld", "ElsaQuickstarts.ConsoleApp.HelloWorld\ElsaQuickstarts.ConsoleApp.HelloWorld.csproj", "{48207B5E-4795-4D60-8EE8-D85D5B8AAA95}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickstarts.WebApp.HelloWorld", "ElsaQuickstarts.WebApp.HelloWorld\ElsaQuickstarts.WebApp.HelloWorld.csproj", "{BDF3A733-EAA1-4427-BC05-3A781BF1B149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElsaQuickStarts.WebApp6.HelloWorld", "ElsaQuickStarts.WebApp6.HelloWorld\ElsaQuickStarts.WebApp6.HelloWorld.csproj", "{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +21,9 @@ Global
 		{BDF3A733-EAA1-4427-BC05-3A781BF1B149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF3A733-EAA1-4427-BC05-3A781BF1B149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF3A733-EAA1-4427-BC05-3A781BF1B149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50D3E89-4F9A-4C4C-9D9D-B101378AA3DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
