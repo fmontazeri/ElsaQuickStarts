@@ -1,0 +1,14 @@
+//The following example creates a .sln file in the specified folder, with the same name as the folder:
+dotnet new sln --output MySolution
+-------------------------------------
+dotnet new console -n "ElsaQuickstarts.ConsoleApp.HelloWorld"
+cd ElsaQuickstarts.ConsoleApp.HelloWorld
+dotnet add package Elsa
+dotnet add package Elsa.Activities.Console
+-------------------------------------
+dotnet new web -n "ElsaQuickstarts.WebApp.HelloWorld"
+cd ElsaQuickstarts.WebApp.HelloWorld
+dotnet add package Elsa
+dotnet add package Elsa.Activities.Http
+-------------------------------------
+dotnet sln ElsaQuickStarts.sln add **/*.csproj
